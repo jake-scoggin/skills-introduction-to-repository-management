@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @jake-scoggin
+/src/backend/database.py      @jake-scoggin
+/src/backend/routers/auth.py  @jake-scoggin
+
+The frontend will need refactored soon to be more object oriented.
+/src/static  @jake-scoggin
